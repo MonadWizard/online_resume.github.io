@@ -1,0 +1,189 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Rakib Hasan
+    tagline: Full Stack Python Developer 
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: rakibhasanrakib8@gmail.com.com
+    phone: '01734522557'
+    website: monadwizard.live #do not add http://
+    linkedin: rakib-hasan-90518b140
+    github: MonadWizard
+    gitlab:
+    bitbucket:
+    twitter: '@RakibHa91273895'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: Bangla
+        level: mother tongue
+
+      - idiom: English
+        level: Professional
+
+
+    interests:
+      - item: problem-solving (hackerrank)
+        link: https://www.hackerrank.com/monad_wizard_r
+
+      - item: deep thinking (kaggle)
+        link: https://www.kaggle.com/monad1
+
+      - item: Cooking
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+        I am a fresh graduate looking for an An internship or research opportunity that will allow me to utilize my problem solving skills and attention to
+        detail to further develop my abilities in the field of computer science to prove myself as an Engineer by
+        developing quality projects and also develop my career as well as to contribute in the welfare
+        of the company.
+
+education:
+    - degree: BSc in Computer Science and Engineering
+      university: Daffodil International University
+      time: 2015 - 2020
+      GPA: 3.0
+      
+
+experiences:
+    - role: Machine Learning
+      time: 2018 - Present
+      company: Self-Implementation
+      details: |
+        Proficient in machine learning and deep learning skills for multiple applications including 
+          - Computer Vision 
+          - Deep Neural Network
+          - Recommendation System
+          - Natural Language Processing
+         by the well-known experience of Tensorflow, Numpy, Pandas, OpenCV, NLTK, scikit-learn
+         
+    - role: data Scientist
+      time: 2018 - Present
+      company: Self-Implementation
+      details: |
+        Data analysis using predictive modeling, data processing and data mining algorithms to solve challenging business problems.
+        Involved in Python open source community and passionate about deep reinforcement learning.
+          - with 50+ data mining algorithms with Data Visualization prediction.
+          - with Statistical Computing Methods, Regression and Classification Analysis.
+          
+    - role: Django, flask Developer
+      time: 2019 - Present
+      company:Self-Implementation
+      details: 
+        Most of all Web front-ends, Web back-ends with Flask or Django, database design,create and deploy REST API,
+        distributed web crawling & scraping.
+        Work well independently and within a result oriented team, able to view software through the eyes of the end-customer.
+          - worked with Beautiful-Soup, REST(django/flask), postgresql, web-chatBot(without API)
+          - implementing AI's strong and unique feature in web application.
+          
+    - role: Android Developer
+      time: 2016 - 2018
+      company: Self-Implementation
+      details: |
+        A Mobile Application Developer with nearly 3+ years of experience Software Development, Application Maintenance 
+        & Support and Project Execution.can be make most of all kind of Android Application with Java and material design. 
+        well known and implementation with flatter(dart).
+          - work with firebase, vector animation, custom repository
+          - implementing AI's strong and unique feature in mobile Development.
+          
+    
+          
+          
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python , Java , MarkDown
+        level: 98%
+        
+      - name: Django or Flask 
+        level: 70%
+
+      - name: Computer Vision
+        level: 70%
+
+      - name: Deep neural Learning
+        level: 70%
+
+      - name: Natural Language Processing
+        level: 75%
+
+      - name: Android Development
+        level: 95%
+
+      - name: Graphic Design
+        level: 45%
+        
+      - name: Desktop App Development
+        level: 80%
+        
+      - name: Font end Development
+        level: 80%
+        
+      - name: API Development
+        level: 80%
+
+        
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Monad Wizard</a>
