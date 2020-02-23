@@ -54,7 +54,7 @@ education:
     - degree: BSc in Computer Science and Engineering
       university: Daffodil International University
       time: 2015 - 2020
-      GPA: 3.0
+      
       
 
 experiences:
@@ -67,7 +67,8 @@ experiences:
           - Deep Neural Network
           - Recommendation System
           - Natural Language Processing
-         by the well-known experience of Tensorflow, Numpy, Pandas, OpenCV, NLTK, scikit-learn         
+         by the well-known experience of Tensorflow, Numpy, Pandas, OpenCV, NLTK, scikit-learn  
+         
     - role: data Scientist
       time: 2018 - Present
       company: Self-Implementation
@@ -76,6 +77,7 @@ experiences:
         Involved in Python open source community and passionate about deep reinforcement learning.
           - with 50+ data mining algorithms with Data Visualization prediction.
           - with Statistical Computing Methods, Regression and Classification Analysis.
+          
     - role: Django, flask Developer
       time: 2019 - Present
       company: Self-Implementation
@@ -84,7 +86,8 @@ experiences:
         distributed web crawling & scraping.
         Work well independently and within a result oriented team, able to view software through the eyes of the end-customer.
           - worked with Beautiful-Soup, REST(django/flask), postgresql, web-chatBot(without API)
-          - implementing AI's strong and unique feature in web application.    
+          - implementing AI's strong and unique feature in web application.  
+          
     - role: Android Developer
       time: 2016 - 2018
       company: Self-Implementation
@@ -167,19 +170,19 @@ skills:
         level: 75%
 
       - name: Android Development
-        level: 95%
+        level: 90%
 
       - name: Graphic Design
         level: 45%
         
       - name: Desktop App Development
-        level: 80%
+        level: 60%
         
       - name: Font end Development
-        level: 80%
+        level: 60%
         
       - name: API Development
-        level: 80%
+        level: 60%
 
         
 footer: >
