@@ -67,38 +67,39 @@ experiences:
           - Deep Neural Network
           - Recommendation System
           - Natural Language Processing
-         by the well-known experience of Tensorflow, Numpy, Pandas, OpenCV, NLTK, scikit-learn  
+         by the well-known experience of Numpy, Matplotlib, Seaborn, Pandas, OpenCV, NLTK, Scikit-Learn, SK-Learn,Tensorflow, Keras, 
+         Pillow, TK-inter, PyQt5, Beautiful-Soup, Pickle, Joblib, Regex, Request...etc 
          
-    - role: data Scientist
-      time: 2018 - Present
-      company: Self-Implementation
-      details: |
-        Data analysis using predictive modeling, data processing and data mining algorithms to solve challenging business problems.
+         Data analysis using predictive modeling, data processing and data mining algorithms to solve challenging business problems.
         Involved in Python open source community and passionate about deep reinforcement learning.
           - with 50+ data mining algorithms with Data Visualization prediction.
           - with Statistical Computing Methods, Regression and Classification Analysis.
           
-    - role: Django, flask Developer
+          
+    - role: Django, flask (Developer)
       time: 2019 - Present
       company: Self-Implementation
       details: | 
-        Most of all Web front-ends, Web back-ends with Flask or Django, database design,create and deploy REST API,
+        Work with most of all Web front-ends by Web back-ends Flask or Django, database design,create and deploy REST API,
         distributed web crawling & scraping.
-        Work well independently and within a result oriented team, able to view software through the eyes of the end-customer.
-          - worked with Beautiful-Soup, REST(django/flask), postgresql, web-chatBot(without API)
-          - implementing AI's strong and unique feature in web application.  
-          
+        Work well independently and within a result oriented team.
+          - complete 10+ useful and effective Django projects with postgresql.
+          - REST(django/flask) + machine-learning model API for using on Flutter(mobile)/web(django) applications
+                   for a single example: web-chatBot(raw python without 3rd party API)
+
+
     - role: Android Developer
-      time: 2016 - 2018
+      time: 2016 - 2018 then (2020 - present)
       company: Self-Implementation
       details: |
         A Mobile Application Developer with nearly 3+ years of experience Software Development, Application Maintenance 
-        & Support and Project Execution.can be make most of all kind of Android Application with Java and material design. 
+        & Support and Project Execution.can be make most of all kind of Android Application with Java and material design.(2016-2018) 
         well known and implementation with flatter(dart).
-          - work with firebase, vector animation, custom repository
-          - implementing AI's strong and unique feature in mobile Development.
+        since 2020-persent again come back and make Android applications using backend flask-API and UI makes by flutter.
+          - make 10+ android application using Machine Learning model to predict and analysis
+          - work with firebase, vector animation, custom 3rd-party-API's, 3rd-party-methods...etc
           
-    
+      
           
           
 projects:
@@ -122,17 +123,14 @@ projects:
 publications:
     title: Publications
     intro: |
-      No publication yet.
+      No publication yet. I have a bad thesis writing experience. Writing in English is very troublesome. 
     papers:
-      - title: Thinking to publish
+      - title: 
         link: "#"
         authors: Rakib Hasan
         conference: not, Sure
 
-      - title: "Not sure which one"
-        link: "#"
-        authors: mayn one may be
-        conference: "at home"
+
 
 
 skills:
@@ -143,31 +141,28 @@ skills:
         level: 98%
         
       - name: Django or Flask 
-        level: 70%
+        level: 98%
 
-      - name: Computer Vision
+      - name: Machine Learning
         level: 70%
-
-      - name: Deep neural Learning
-        level: 70%
-
-      - name: Natural Language Processing
-        level: 75%
 
       - name: Android Development
         level: 90%
 
       - name: Graphic Design
-        level: 45%
-        
-      - name: Desktop App Development
         level: 60%
+        
+      - name: Desktop App Development(Tk-inter,PyQt5)
+        level: 50%
         
       - name: Font end Development
-        level: 60%
+        level: 98%
         
-      - name: API Development
-        level: 60%
+      - name: REST API Development
+        level: 90%
+        
+      - name: Problem Solving
+        level: 98%
 
         
 footer: >
