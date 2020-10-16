@@ -54,7 +54,7 @@ education:
     - degree: BSc in Computer Science and Engineering
       university: Daffodil International University
       time: 2015 - 2020
-
+      
       
 
 experiences:
@@ -67,85 +67,71 @@ experiences:
           - Deep Neural Network
           - Recommendation System
           - Natural Language Processing
-         by the well-known experience of Tensorflow, Numpy, Pandas, OpenCV, NLTK, scikit-learn         
-    - role: data Scientist
-      time: 2018 - Present
-      company: Self-Implementation
-      details: |
-        Data analysis using predictive modeling, data processing and data mining algorithms to solve challenging business problems.
+         by the well-known experience of Numpy, Matplotlib, Seaborn, Pandas, OpenCV, NLTK, Scikit-Learn, SK-Learn,Tensorflow, Keras, 
+         Pillow, TK-inter, PyQt5, Beautiful-Soup, Pickle, Joblib, Regex, Request...etc 
+         
+         Data analysis using predictive modeling, data processing and data mining algorithms to solve challenging business problems.
         Involved in Python open source community and passionate about deep reinforcement learning.
           - with 50+ data mining algorithms with Data Visualization prediction.
           - with Statistical Computing Methods, Regression and Classification Analysis.
-    - role: Django, flask Developer
+          
+          
+    - role: Django, flask (Developer)
       time: 2019 - Present
-      company:Self-Implementation
+      company: Self-Implementation
       details: | 
-        Most of all Web front-ends, Web back-ends with Flask or Django, database design,create and deploy REST API,
+        Work with most of all Web front-ends by Web back-ends Flask or Django, database design,create and deploy REST API,
         distributed web crawling & scraping.
-        Work well independently and within a result oriented team, able to view software through the eyes of the end-customer.
-          - worked with Beautiful-Soup, REST(django/flask), postgresql, web-chatBot(without API)
-          - implementing AI's strong and unique feature in web application.    
+        Work well independently and within a result oriented team.
+          - complete 10+ useful and effective Django projects with postgresql.
+          - REST(django/flask) + machine-learning model API for using on Flutter(mobile)/web(django) applications
+                   for a single example: web-chatBot(raw python without 3rd party API)
+
+
     - role: Android Developer
-      time: 2016 - 2018
+      time: 2016 - 2018 then (2020 - present)
       company: Self-Implementation
       details: |
         A Mobile Application Developer with nearly 3+ years of experience Software Development, Application Maintenance 
-        & Support and Project Execution.can be make most of all kind of Android Application with Java and material design. 
+        & Support and Project Execution.can be make most of all kind of Android Application with Java and material design.(2016-2018) 
         well known and implementation with flatter(dart).
-          - work with firebase, vector animation, custom repository
-          - implementing AI's strong and unique feature in mobile Development.
+        since 2020-persent again come back and make Android applications using backend flask-API and UI makes by flutter.
+          - make 10+ android application using Machine Learning model to predict and analysis
+          - work with firebase, vector animation, custom 3rd-party-API's, 3rd-party-methods...etc
           
-    
+      
           
           
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I need some time to add my best chossen project
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: Unknown
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "will be add"
 
-      - title: Tempo
+      - title: Unknown
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "need some time to add..but I am in procastination"
 
-      - title: Atom
+      - title: Unknown
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Can be add some time"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+      
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      No publication yet. I have a bad thesis writing experience. Writing in English is very troublesome. 
     papers:
-      - title: The Art of Computer Programming
+      - title: 
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Rakib Hasan
+        conference: not, Sure
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+
 
 skills:
     title: Skills &amp; Proficiency
@@ -155,31 +141,28 @@ skills:
         level: 98%
         
       - name: Django or Flask 
-        level: 70%
+        level: 98%
 
-      - name: Computer Vision
+      - name: Machine Learning
         level: 70%
-
-      - name: Deep neural Learning
-        level: 70%
-
-      - name: Natural Language Processing
-        level: 75%
 
       - name: Android Development
-        level: 95%
+        level: 90%
 
       - name: Graphic Design
-        level: 45%
+        level: 60%
         
-      - name: Desktop App Development
-        level: 80%
+      - name: Desktop App Development(Tk-inter,PyQt5)
+        level: 50%
         
       - name: Font end Development
-        level: 80%
+        level: 98%
         
-      - name: API Development
-        level: 80%
+      - name: REST API Development
+        level: 90%
+        
+      - name: Problem Solving
+        level: 98%
 
         
 footer: >
