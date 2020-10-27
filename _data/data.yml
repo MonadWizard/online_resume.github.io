@@ -115,9 +115,9 @@ projects:
         link: "#"
         tagline: "need some time to add..but I am in procastination"
 
-      - title: machine learning
-        link: "https://github.com/MonadWizard/hybride-AI_car-game"
-        tagline: "I try to make a hybrid-AI base reinforcement Learning car racing game. AI bot will contest with you to win the game. "
+      - title: AI base Projects
+        link: "https://github.com/MonadWizard?tab=repositories&q=AI+&type=&language="
+        tagline: "I try to practice some AI base project, for personal interest. "
 
 
 
