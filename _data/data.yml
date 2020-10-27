@@ -105,30 +105,19 @@ experiences:
 projects:
     title: Projects
     intro: >
-      I need some time to add my best chossen project
+      I'm trying to categories my projects below:
     assignments:
-      - title: Unknown
-        link: "#"
-        tagline: "will be add"
+      - title: web application Development(Django)
+        link: "https://github.com/MonadWizard?tab=repositories&q=django&type=source&language="
+        tagline: "I try to implement some web applications on Django.there is my GitHub repository where you can see my Django projects."
 
-      - title: Unknown
+      - title: Mobile application development(Java/flutter+Python_REST)
         link: "#"
         tagline: "need some time to add..but I am in procastination"
 
-      - title: Unknown
-        link: "#"
-        tagline: "Can be add some time"
-
-      
-publications:
-    title: Publications
-    intro: |
-      No publication yet. I have a bad thesis writing experience. Writing in English is very troublesome. 
-    papers:
-      - title: 
-        link: "#"
-        authors: Rakib Hasan
-        conference: not, Sure
+      - title: machine learning
+        link: "https://github.com/MonadWizard/hybride-AI_car-game"
+        tagline: "I try to make a hybrid-AI base reinforcement Learning car racing game. AI bot will contest with you to win the game. "
 
 
 
@@ -150,16 +139,16 @@ skills:
         level: 90%
 
       - name: Graphic Design
-        level: 60%
+        level: 50%
         
       - name: Desktop App Development(Tk-inter,PyQt5)
         level: 50%
         
       - name: Font end Development
-        level: 98%
+        level: 70%
         
-      - name: REST API Development
-        level: 90%
+      - name: PYTHON REST API Development
+        level: 80%
         
       - name: Problem Solving
         level: 98%
