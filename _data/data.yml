@@ -105,7 +105,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      I'm trying to categories my projects below:
+      I'm trying to categories my projects below, click the title and see my work from github.
     assignments:
       - title: web application Development(Django)
         link: "https://github.com/MonadWizard?tab=repositories&q=django&type=source&language="
